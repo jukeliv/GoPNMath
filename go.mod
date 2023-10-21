@@ -1,3 +1,3 @@
-module main
+module pnMath
 
 go 1.21.3
